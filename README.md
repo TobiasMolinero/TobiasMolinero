@@ -9,9 +9,23 @@ I'm from Tucuman, Argentina. I'm a programmer student in the Universidad Tecnolo
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-bootsrap-333333?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-bootsrap-333333?style=flat&logo=bootstrap)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+### I'm learning:
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+### Contact me
+<a href="https://www.linkedin.com/in/tobiasmolinero/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tobias%20Molinero-blue?style=flat-square&logo=linkedin"></a>
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/Gmail-tobiasmolinero98@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+
+
 
 <!--
 **TobiasMolinero/TobiasMolinero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
