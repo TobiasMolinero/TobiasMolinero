@@ -3,7 +3,7 @@
 
 ### About me
 
-I'm from Tucuman, Argentina. I'm a programmer student in the Universidad Tecnologica Nacional - Facultad Regional Tucuman. At the moment, i'm in the last year of the degree and I still need to pass five subjects. 
+I'm 25 years old, i'm from Tucuman, Argentina. I'm a programmer student in the Universidad Tecnologica Nacional - Facultad Regional Tucuman. At the moment, i'm in the last year of the degree and I still need to pass five subjects. 
 
 ### Technologies
 
