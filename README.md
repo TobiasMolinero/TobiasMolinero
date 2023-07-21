@@ -1,4 +1,4 @@
-<h1>Hi!👋 My name is Tobias Molinero</h1>
+<h1>Hi! My name is Tobias Molinero <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> </h1>
 <h2>Programmer student</h2>
 
 ### About me
