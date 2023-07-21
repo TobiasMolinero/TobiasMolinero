@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1>Hi!👋 My name is Tobias Molinero</h1>
+<h2>Programmer student</h2>
 
+### About me
+
+I'm from Tucuman, Argentina. I'm a programmer student in the Universidad Tecnologica Nacional - Facultad Regional Tucuman. At the moment, i'm in the last year of the degree and I still need to pass five subjects. 
 
 
 <!--
