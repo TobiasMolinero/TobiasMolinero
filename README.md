@@ -12,14 +12,10 @@ I'm 25 years old, i'm from Tucuman, Argentina. I'm a programming student in the 
 ![Bootstrap](https://img.shields.io/badge/-Bootsrap-333333?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-### I'm learning:
-
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ### Contact me
 <a href="https://www.linkedin.com/in/tobiasmolinero/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tobias%20Molinero-blue?style=flat-square&logo=linkedin"></a>
