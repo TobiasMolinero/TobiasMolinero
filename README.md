@@ -1,16 +1,17 @@
 <h1>Hi! My name is Tobias Molinero <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> </h1>
-<h2>Programmer student</h2>
+<h2>Front end developer</h2>
 
 ### About me
 
-I'm 25 years old, i'm from Tucuman, Argentina. I'm a programming student in the Universidad Tecnologica Nacional - Facultad Regional Tucuman. At the moment, i'm in the last year of the degree and I still need to pass five subjects. Currently my knowledge and experience are oriented towards Frontend development, but I'm also learning about backend development.
-
+I'm a 
+ 
 ### Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootsrap-333333?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
