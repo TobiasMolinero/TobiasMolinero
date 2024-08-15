@@ -3,7 +3,6 @@
 
 ### About me
 
-I'm a 
  
 ### Technologies
 
