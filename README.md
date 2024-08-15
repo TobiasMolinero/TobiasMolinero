@@ -14,6 +14,8 @@ I'm a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
