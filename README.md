@@ -10,6 +10,7 @@ I'm a
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootsrap-333333?style=flat&logo=bootstrap)
+![Tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
